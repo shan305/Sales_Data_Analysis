@@ -1,0 +1,7 @@
+Product
+building    20436.64
+western     17840.14
+material    16190.20
+stand       15671.37
+least       14822.41
+Name: Total Sales, dtype: float64

@@ -1,0 +1,7 @@
+Missing values:
+Date           0
+Product        0
+Price          0
+Quantity       0
+Total Sales    0
+dtype: int64
