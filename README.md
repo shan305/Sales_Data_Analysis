@@ -1,5 +1,5 @@
 
-```markdown
+
 **Sales Data Analysis**
 
 - This Python script performs data analysis on synthetic retail sales data generated using the Faker library. The analysis covers various aspects of the data, including data generation, exploration, cleaning, and visualization.
@@ -76,4 +76,4 @@ The script will generate synthetic sales data, perform data analysis, and save o
 ## Author
 
 - Zeeshan Ali
-```
+
